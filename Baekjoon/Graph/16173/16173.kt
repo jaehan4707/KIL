@@ -1,7 +1,7 @@
 /*
 2023/08/09 실버4
  */
-package Baekjoon.Graph
+package Baekjoon.Graph.`16173`
 import java.util.LinkedList
 import java.util.Queue
 
