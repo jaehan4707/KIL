@@ -15,5 +15,5 @@
 
 ## 목차
 - Graph
-  - [16173_점프왕쩰리(small)](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/16173.kt)
+  - [16173_점프왕쩰리(small)](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/16173)
   - [14502_연구소](https://github.com/jaehan4707/KIL/tree/main/Baekjoon/Graph/14502)
