@@ -34,13 +34,13 @@ fun main(){
                 list.add(b[i])
                 list.add(b[j])
                 list.add(b[k])
-                answer = max(answer,dfs(graph,list))
+                answer = max(answer,bfs(graph,list))
             }
         }
     }
     println(answer)
 }
-fun dfs(array : Array<Array<Int>>,list : MutableList<Pair<Int,Int>>) : Int{  //최대한 바이러스가 덜  퍼지게 해야함.
+fun bfs(array : Array<Array<Int>>,list : MutableList<Pair<Int,Int>>) : Int{  //최대한 바이러스가 덜  퍼지게 해야함.
     val visit = Array(row,{Array(col,{false})})
     var origin = b.size-list.size
     val tempQueue : Queue<Pair<Int,Int>> = LinkedList()
