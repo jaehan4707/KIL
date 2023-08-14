@@ -13,14 +13,14 @@
 | 2023.08.11 | [다리만들기](https://www.acmicpc.net/problem/2146)        | 골드3 | [08/11](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/2146/08_11.md)  |
 | 2023.08.12 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)      | 골드3 | [08/12](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/1937/08_12.md)  |
 | 2023.08.13 | [타워디펜스](https://www.acmicpc.net/problem/17135)       | 골드3 | [08/13](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/17135/08_13.md) |
-| 2023.08.14 | [호텔](https://www.acmicpc.net/problem/1106)           | 골드5| [08/14](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Greedy/1106/08_14.md) |
+| 2023.08.14 | [호텔](https://www.acmicpc.net/problem/1106)           | 골드5| [08/14](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/DP/1106/08_14.md)     |
 
-## 문제 정리
+## 문제 정예
 - Graph
   - [16173_점프왕쩰리(small)](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/16173)
   - [14502_연구소](https://github.com/jaehan4707/KIL/tree/main/Baekjoon/Graph/14502)
   - [2146_다리만들기](https://github.com/jaehan4707/KIL/tree/main/Baekjoon/Graph/2146)
   - [1937_욕심쟁이 판다](https://github.com/jaehan4707/KIL/tree/main/Baekjoon/Graph/1937)
   - [17135_타워디펜스](https://github.com/jaehan4707/KIL/tree/main/Baekjoon/Graph/17135)
-- Greedy
-  - [1106_호텔](https://github.com/jaehan4707/KIL/tree/main/Baekjoon/Greedy/1106)
+- DP
+  - [1106_호텔](https://github.com/jaehan4707/KIL/tree/main/Baekjoon/DP/1106)
