@@ -6,19 +6,21 @@
 ```text
 하루에 문제 하나씩, 이론 하나씩 정리
 ```
-| 날짜         | 문제                                                    | 난이도 | 배운내용                                                                               |
-|------------|-------------------------------------------------------|-----|------------------------------------------------------------------------------------|
+| 날짜         | 문제                                                   | 난이도 | 배운내용                                                                               |
+|------------|------------------------------------------------------|----|------------------------------------------------------------------------------------|
 | 2023.08.09 | [점프왕쩰리(small)](https://www.acmicpc.net/problem/16173) | 실버4 | [08/09](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/16173/08_09.md) |
-| 2023.08.10 | [연구소](https://www.acmicpc.net/problem/14502)          | 골드4 | [08/10](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/14502/08_10.md) |
-| 2023.08.11 | [다리만들기](https://www.acmicpc.net/problem/2146)         | 골드3 | [08/11](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/2146/08_11.md)  |
-| 2023.08.12 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)       | 골드3 | [08/12](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/1937/08_12.md)  |
-| 2023.08.13 | [타워디펜스](https://www.acmicpc.net/problem/17135)        | 골드3 | [08/13](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/1937/08_13.md)  |
+| 2023.08.10 | [연구소](https://www.acmicpc.net/problem/14502)         | 골드4 | [08/10](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/14502/08_10.md) |
+| 2023.08.11 | [다리만들기](https://www.acmicpc.net/problem/2146)        | 골드3 | [08/11](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/2146/08_11.md)  |
+| 2023.08.12 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937)      | 골드3 | [08/12](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/1937/08_12.md)  |
+| 2023.08.13 | [타워디펜스](https://www.acmicpc.net/problem/17135)       | 골드3 | [08/13](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/17135/08_13.md) |
+| 2023.08.14 | [호텔](https://www.acmicpc.net/problem/1106)           | 골드5| [08/14](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Greedy/1106/08_14.md) |
 
-
-## 목차
+## 문제 정리
 - Graph
   - [16173_점프왕쩰리(small)](https://github.com/jaehan4707/KIL/blob/main/Baekjoon/Graph/16173)
   - [14502_연구소](https://github.com/jaehan4707/KIL/tree/main/Baekjoon/Graph/14502)
   - [2146_다리만들기](https://github.com/jaehan4707/KIL/tree/main/Baekjoon/Graph/2146)
   - [1937_욕심쟁이 판다](https://github.com/jaehan4707/KIL/tree/main/Baekjoon/Graph/1937)
   - [17135_타워디펜스](https://github.com/jaehan4707/KIL/tree/main/Baekjoon/Graph/17135)
+- Greedy
+  - [1106_호텔](https://github.com/jaehan4707/KIL/tree/main/Baekjoon/Greedy/1106)
