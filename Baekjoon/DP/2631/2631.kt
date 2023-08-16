@@ -24,9 +24,8 @@ class `2631` {
     fun solution() : Int{
         for(i in 0 until ary.size){
             for(j in i+1 until ary.size){
-                if(ary[i]<ary[j]){
+                if(ary[i]<ary[j])
                     dp[j] = max(dp[j], dp[i]+1)
-                }
             }
         }
         return if(dp.isEmpty()) 0
